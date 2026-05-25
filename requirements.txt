@@ -1,0 +1,5 @@
+httpx
+feedparser
+deep-translator
+apscheduler
+pytz
